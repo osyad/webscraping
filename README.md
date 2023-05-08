@@ -26,15 +26,19 @@ Looking at long rows of text or numbers can be tiring to the eye. Therefore, the
 ## 5. Present Your Solution
 I designed the chart to be easy to understand. Below is a list of books with the most common words. I also created a function that allows the user to remove common words that may have been missed by the natural language processing.
 #### A. Moby Dick or the Whale 
+![carbon](https://user-images.githubusercontent.com/80264351/236866553-89a2cd75-a170-482a-a8ff-1ea3cc708fd0.png)
 
 
 ![fd](https://user-images.githubusercontent.com/80264351/236865274-f713a640-9646-44c4-99e8-16e058312c52.png)
 
 #### B. Makers of Japan by Joseph E. Morris
+![carbon2](https://user-images.githubusercontent.com/80264351/236866431-7d37da7d-c639-4a06-a97a-05d6f43576e2.png)
 
 ![fd](https://user-images.githubusercontent.com/80264351/236865410-5acd2697-3044-42b3-bd6f-70597de16da7.png)
 
 #### I wanted to remove words such as "Japan" , "men", "many" as I consider them common words 
-
+![code1](https://user-images.githubusercontent.com/80264351/236866294-2e23d6c4-7130-4ec4-877e-92fe8490a92b.png)
 ![fd](https://user-images.githubusercontent.com/80264351/236865546-17fd4dab-9428-4148-828d-708727e51cf8.png)
 
+# Conclusion 
+ In conclusion, this project demonstrates the power of web scraping and natural language processing in extracting insights from text data. By scraping and analyzing the most common words in Moby Dick novel, we were able to gain insight into the themes, characters, and plot of the novel. The use of Python libraries such as requests, BeautifulSoup, pandas, and matplotlib enabled us to efficiently and effectively collect, wrangle, and visualize the data. The project also highlights the importance of data visualization in communicating insights in a clear and concise manner. Overall, this project showcases the potential of data analysis to provide valuable insights into various fields and industries.
