@@ -2,7 +2,7 @@
 ![Web_Scraping_for_Common_Words_in_a_Novel](https://user-images.githubusercontent.com/80264351/236859756-a92d4555-2195-40d0-9b6c-d7715986e960.png)
 
 
-# Web Scraping for Common Words in a Novel
+# Introduction
 Web scraping is a powerful method for collecting data across the web. In this project, I use Python to web scrape a novel and count the most common words. The goal is to answer the question, "What are the most common words in the Moby Dickor the Whale novel?" By analyzing the most frequent words in a novel, we can gain insight into its themes, characters, and plot.
 
 # Steps Taken During the Project
@@ -25,11 +25,14 @@ Looking at long rows of text or numbers can be tiring to the eye. Therefore, the
 
 ## 5. Present Your Solution
 I designed the chart to be easy to understand. Below is a list of books with the most common words. I also created a function that allows the user to remove common words that may have been missed by the natural language processing.
-## Moby Dick or the Whale 
+### A.Moby Dick or the Whale 
 ![fd](https://user-images.githubusercontent.com/80264351/236863343-8f80a19b-0217-4f2d-b459-94ad46b39b2d.png)
 
 
-## Makers of Japan by Joseph E. Morris
+### B. Makers of Japan by Joseph E. Morris
 
 ![fd](https://user-images.githubusercontent.com/80264351/236863664-ddf823d9-9789-4b12-b8c1-32b9a8e47c30.png)
+#### I wanted to remove words such as "Japan" , "men", "many"  
+![Function 12](https://user-images.githubusercontent.com/80264351/236864937-dffd9459-7c7d-442f-bc98-fdda3e3bbec6.png)
+![plot](https://user-images.githubusercontent.com/80264351/236864983-10e18f8d-38b2-49b9-9121-4dc8b00ebbd6.png)
 
