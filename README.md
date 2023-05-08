@@ -10,8 +10,7 @@ Web scraping is a powerful method for collecting data across the web. In this pr
 I started this project by asking a question: "What are the most common words in the Moby Dick novel?" This question was driven by my curiosity to understand the themes, characters, and plot of the novel.
 
 ## 2. Get Your Data
-  To collect the data, I used Python's __'requests'__ library. __'requests'__ is an awesome and popular library that is used by
-giant tech companies such as Netflix. It's easy to use and provides a simple and intuitive API for making HTTP requests, making it easy for developers to send requests and receive responses from servers.
+  the source of this data is https://www.gutenberg.org/ whic is an awesome site with a great collection of books. To collect the data, I used Python's __'requests'__ library. __'requests'__ is an awesome and popular library that is used by giant tech companies such as Netflix. It's easy to use and provides a simple and intuitive API for making HTTP requests, making it easy for developers to send requests and receive responses from servers.
 
 <img src="https://user-images.githubusercontent.com/80264351/236862522-d57818a5-fde6-44c9-bc9f-f311052ab9bd.png" alt="Banner" width="30%" height="30%">
 
