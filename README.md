@@ -16,20 +16,20 @@ I started this project by asking a question which is "What are the most common w
 
 # 2. Get you Data
  
-I will be using Python library _Request_ to collect the data. __Requests__ is an awesome library and popular library that is used by giant tech comapnies such as netflex.  
+   I will be using Python library _Request_ to collect the data. __Requests__ is an awesome library and popular library that is used by giant tech comapnies such as netflex.  
 it's easy to use and it provides a simple and intuitive API for making HTTP requests, making it easy for developers to send requests and receive responses from servers.
  
- 3. Wrangle the data.
+# 3. Wrangle the data.
     Python has many tools for data wrangleing  such as pandas, numpy and more for this project I will be using BeautifulSoup as it helps extracting data from all HTML pages. also I used Natrual processing language to help remove common words  such as ( he, they , a , and ...)
     
- 4. answer the question. 
+# 4. answer the question. 
  
    looking at many rows that contine texts or number is tiring to the eye, so the best way to answer this question is by visualizing the data, and I'm using seaborn and matplotlib to answer this question.
    
- 5. Present your solution.
+# 5. Present your solution.
  
-   below is a list of books with the most common words.
-   I created a function that allows to remove commong words that might have been missed by the natural process language. 
+   I designed the chart so that it is easy to understand. below is a list of books with the most common words.
+I created a function that allows to remove commong words that might have been missed by the natural process language. 
    
    
 ![carbon](https://user-images.githubusercontent.com/80264351/236845999-81e3f9f0-5f4a-4f45-bff7-c899f6314d2c.png)
