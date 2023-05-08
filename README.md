@@ -13,7 +13,7 @@ I started this project by asking a question: "What are the most common words in 
   To collect the data, I used Python's __'requests'__ library. __'requests'__ is an awesome and popular library that is used by
 giant tech companies such as Netflix. It's easy to use and provides a simple and intuitive API for making HTTP requests, making it easy for developers to send requests and receive responses from servers.
 
-<img src="https://user-images.githubusercontent.com/80264351/236849286-26a11fc5-0a2a-4b75-8e1c-f08251cb2f2c.png" alt="Banner" width="30%" height="30%">
+<img src="https://user-images.githubusercontent.com/80264351/236862522-d57818a5-fde6-44c9-bc9f-f311052ab9bd.png" alt="Banner" width="30%" height="30%">
 
 ## 3. Wrangle the Data
 Python has many tools for data wrangling such as __'pandas'__, __'numpy'__, and more. For this project, I used __'BeautifulSoup'__ to extract the relevant text from the novel's HTML page. I also used natural language processing techniques to remove common words such as "he," "they," "a," and "and."
