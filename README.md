@@ -26,8 +26,6 @@ Looking at long rows of text or numbers can be tiring to the eye. Therefore, the
 ## 5. Present Your Solution
 I designed the chart to be easy to understand. Below is a list of books with the most common words. I also created a function that allows the user to remove common words that may have been missed by the natural language processing.
 #### A. Moby Dick or the Whale 
-![carbon](https://user-images.githubusercontent.com/80264351/236866553-89a2cd75-a170-482a-a8ff-1ea3cc708fd0.png)
-
 
 ![fd](https://user-images.githubusercontent.com/80264351/236865274-f713a640-9646-44c4-99e8-16e058312c52.png)
 
