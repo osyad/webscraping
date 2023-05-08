@@ -25,14 +25,16 @@ Looking at long rows of text or numbers can be tiring to the eye. Therefore, the
 
 ## 5. Present Your Solution
 I designed the chart to be easy to understand. Below is a list of books with the most common words. I also created a function that allows the user to remove common words that may have been missed by the natural language processing.
-### A.Moby Dick or the Whale 
-![fd](https://user-images.githubusercontent.com/80264351/236863343-8f80a19b-0217-4f2d-b459-94ad46b39b2d.png)
+#### A. Moby Dick or the Whale 
 
 
-### B. Makers of Japan by Joseph E. Morris
+![fd](https://user-images.githubusercontent.com/80264351/236865274-f713a640-9646-44c4-99e8-16e058312c52.png)
 
-![fd](https://user-images.githubusercontent.com/80264351/236863664-ddf823d9-9789-4b12-b8c1-32b9a8e47c30.png)
-#### I wanted to remove words such as "Japan" , "men", "many"  
-![Function 12](https://user-images.githubusercontent.com/80264351/236864937-dffd9459-7c7d-442f-bc98-fdda3e3bbec6.png)
-![plot](https://user-images.githubusercontent.com/80264351/236864983-10e18f8d-38b2-49b9-9121-4dc8b00ebbd6.png)
+#### B. Makers of Japan by Joseph E. Morris
+
+![fd](https://user-images.githubusercontent.com/80264351/236865410-5acd2697-3044-42b3-bd6f-70597de16da7.png)
+
+#### I wanted to remove words such as "Japan" , "men", "many" as I consider them common words 
+
+![fd](https://user-images.githubusercontent.com/80264351/236865546-17fd4dab-9428-4148-828d-708727e51cf8.png)
 
