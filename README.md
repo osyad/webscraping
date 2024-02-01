@@ -1,7 +1,7 @@
 
 ![Web_Scraping_for_Common_Words_in_a_Novel](https://user-images.githubusercontent.com/80264351/236859756-a92d4555-2195-40d0-9b6c-d7715986e960.png)
 
-https://app.powerbi.com/links/etKTQUA8_D?ctid=a0552c99-dfde-4735-98e6-23a96e2b9e32&pbi_source=linkShare
+<iframe title="NCAA Profit and Losses Summarized" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=99e4880d-5446-41b2-9fbf-242537bd460b&autoAuth=true&ctid=a0552c99-dfde-4735-98e6-23a96e2b9e32" frameborder="0" allowFullScreen="true"></iframe>
 # Introduction
 Web scraping is a powerful method for collecting data across the web. In this project, I use Python to web scrape a novel and count the most common words. The goal is to answer the question, "What are the most common words in the Moby Dickor the Whale novel?" By analyzing the most frequent words in a novel, we can gain insight into its themes, characters, and plot.
 
